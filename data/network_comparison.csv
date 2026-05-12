@@ -1,0 +1,11 @@
+,value
+edges_pearson,500.0
+edges_spearman,600.0
+edges_shared,295.0
+edges_only_pearson,205.0
+edges_only_spearman,305.0
+jaccard_overlap,0.36645962732919257
+degree_ks_stat,0.1485148514851485
+degree_ks_pval,0.2159161563760809
+degree_mean_pearson,9.900990099009901
+degree_mean_spearman,11.881188118811881
