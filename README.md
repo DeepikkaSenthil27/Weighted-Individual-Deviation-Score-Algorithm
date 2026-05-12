@@ -3,7 +3,7 @@
 
 ---
 
-## What this project is about
+## Objective of the project 
 
 Most microbiome studies ask "which bacteria are present and how many?" — but that misses something important. Two patients can have nearly identical bacterial abundance profiles and still have very different diseases, because what matters is not just *what* bacteria are there, but *how they interact*.
 
@@ -15,7 +15,7 @@ I tested it on two completely different diseases — gestational diabetes (gut m
 
 ---
 
-## The algorithm
+## The algorithm implemented 
 
 WIDS gives each patient a deviation score based on two things:
 
