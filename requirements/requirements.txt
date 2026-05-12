@@ -1,1 +1,9 @@
-
+Dependencies required 
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+jupyter
+openpyxl
