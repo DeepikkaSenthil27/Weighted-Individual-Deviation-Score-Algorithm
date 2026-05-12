@@ -35,7 +35,7 @@ The balance parameter **α** is not guessed — it is optimised per dataset usin
 | Dataset | Type | Samples | Disease | Source |
 |---|---|---|---|---|
 | Liu et al. 2023 | Gut (fecal) | 103 | Gestational diabetes | [PLOS Comp Bio](https://doi.org/10.1371/journal.pcbi.1011193) |
-| NIRT 2025 | Sputum | 48 | TB / TB-COVID co-infection | NIRT Consortium (in press) |
+| NIRT 2025 | Sputum | 48 | TB / TB-COVID co-infection | NIRT Consortium (https://pmc.ncbi.nlm.nih.gov/articles/PMC13055300/) |
 
 ---
 
