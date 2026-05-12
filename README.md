@@ -55,11 +55,11 @@ Negative control validation confirmed that healthy controls (n=72) showed a rand
 ---
 
 ## Repository structure
-├── notebooks/
-│   └── WIDS_analysis.ipynb       # Full analysis — preprocessing to results
-├── figures/                      # All figures from the report
-├── requirements.txt
-└── README.md
+- notebooks/
+   - WIDS_analysis.ipynb       
+ -figures                    
+- requirements.txt
+- README.md
 
 
 ---
